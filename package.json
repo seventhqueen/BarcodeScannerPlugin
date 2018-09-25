@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-BarcodeScanner",
+  "version": "1.0.4",
+  "cordova": {
+    "id": "cordova-plugin-BarcodeScanner",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "description": "Cordova BarcodeScanner",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seventhqueen/BarcodeScannerPlugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seventhqueen/BarcodeScannerPlugin/issues"
+  }
+}
